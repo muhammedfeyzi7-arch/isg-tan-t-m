@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /gizlilik
+Allow: /kvkk
+Allow: /kullanim-kosullari
+Sitemap: https://example.com/sitemap.xml
